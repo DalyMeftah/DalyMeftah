@@ -4,7 +4,7 @@
 💡 Passionate about microservices, event-driven systems, and cloud infrastructure — with a strong focus on sustainable technology and energy transition solutions.
 
 📈 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=DalyMeftah&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF
+![GitHub_Stats](https://github-readme-stats.vercel.app/api?username=DalyMeftah&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)
 
 🏆 Achievements
 
