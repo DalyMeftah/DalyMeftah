@@ -1,31 +1,10 @@
 👋 Hi, I'm Mohamed Ali Meftah
 
-🚀 Senior Backend Engineer with 3+ years of experience building scalable, high-performance systems using Node.js, TypeScript, and NestJS.
+🚀 Backend Engineer with 3+ years of experience building scalable, high-performance systems using Node.js, TypeScript, and NestJS.
 💡 Passionate about microservices, event-driven systems, and cloud infrastructure — with a strong focus on sustainable technology and energy transition solutions.
 
-🔧 Tech Stack
-
-Languages & Frameworks: Node.js, TypeScript, JavaScript (ES6+), NestJS, Express.js
-
-APIs: RESTful APIs, GraphQL
-
-Databases: PostgreSQL, MongoDB, Redis, SQL optimization
-
-Architecture: Microservices, Event-Driven Systems, Kafka
-
-Cloud & DevOps: AWS, Docker, Kubernetes (familiar), CI/CD
-
-Collaboration: React integration, cross-team delivery
-
-📌 Notable Projects
-
-🛒 Monoprix Tunisie – Scalable e-commerce platform serving 1M+ users with a catalog of 350K+ products.
-
-🎓 TakiAcademy – EdTech platform with 400K+ active users, optimized for performance & security.
-
-✅ Tam (Task Management SaaS) – Multi-tenant SaaS with event-driven microservices and Kafka.
-
-🎧 Kotteb-app – Audio streaming platform with real-time event-driven processing.
+📈 GitHub Stats
+https://github-readme-stats.vercel.app/api?username=DalyMeftah&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF
 
 🏆 Achievements
 
@@ -33,6 +12,7 @@ Top 10 Finalist – SalamHack 2025 (4th place out of 800+ teams).
 
 Proven ability to deliver enterprise-quality solutions under intense deadlines.
 
+![hakathon_cetif](https://github.com/user-attachments/assets/247380c7-f062-4919-978b-a8edb3017769)
 🌱 Interests
 
 I’m always learning and exploring more about:
